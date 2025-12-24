@@ -36,7 +36,10 @@ The project uses the following scikit-learn models and tools:
 - Soft Voting Classifier  
 - Train/Test Split  
 - Confusion Matrix  
-- ROC Curve & AUC  
+- ROC Curve & AUC
+- Feature importance
+- XGboost
+- ADAboost
 
 ---
 Notes
